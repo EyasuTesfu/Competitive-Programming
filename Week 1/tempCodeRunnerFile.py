@@ -1,1 +1,1 @@
-print(new_word)
+print(points)
