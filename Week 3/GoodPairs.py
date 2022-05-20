@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 class Solution:
     def numIdenticalPairs(self, nums: list[int]) -> int:
         count = 0
