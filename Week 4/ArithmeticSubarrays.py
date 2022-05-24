@@ -6,7 +6,6 @@ class Solution:
             arithmetic = []
             dif = 0
             arithmetic = nums[l[i]:r[i]+1]
-            print(arithmetic, "1st")
             arithmetic.sort()
             dif = arithmetic[1] - arithmetic[0]
             for k in range(len(arithmetic)-1):
@@ -17,7 +16,6 @@ class Solution:
                     break
                 elif k+1 == len(arithmetic)-1:
                     output.append(True)
-            print(arithmetic, i, output)
         return output
 
 
