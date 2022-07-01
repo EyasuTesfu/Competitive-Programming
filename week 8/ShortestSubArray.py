@@ -1,7 +1,7 @@
 '''
 Problem link = https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 Solution steps involve the concept of sliding window + using a deque to use as a way to continue the monotonically increasing
-structure
+structure and sliding over the deque until we fall under the target, and updating the shortest sub array
 '''
 
 
