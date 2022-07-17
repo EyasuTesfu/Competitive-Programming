@@ -21,13 +21,8 @@ class Solution:
             return True
         while(len(stack) < len(pushed) and push_pointer < len(pushed)):
             stack.append(pushed[push_pointer])
-            if pushed[push_pointer] == popped[pop_pointer]:
+            while(stack and stack[-1] == popped[pop_pointer]):
                 pop_pointer += 1
                 stack.pop()
-                while(stack and stack[-1] == popped[pop_pointer]):
-                    pop_pointer += 1
-                    stack.pop()
-            if len(stack) == 0 and push_pointer == len(pushed)-1:
-                return True
             push_pointer += 1
-        return False
+        return pop_pointer == len(pushed)
