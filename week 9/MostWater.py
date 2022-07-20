@@ -1,4 +1,5 @@
 '''
+Question link = https://leetcode.com/problems/container-with-most-water/
 area = distance(index_difference) * minimum height
 move right and left pointer based on which one is greater
 because the greater one will give a greater or equal area to the previous one
