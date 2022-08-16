@@ -54,3 +54,29 @@ class Solution:
                 res += s[i]
                 i += 1
         return res
+
+
+'''
+Solution: Recursion'''
+
+
+class Solution:
+    def decodeString(self, s: str) -> str:
+        i = 0
+        result = ""
+        while(i < len(s)):
+            if s[i].isdigit():
+                num = ""
+                while(s[i] != "["):
+                    num += s[i]
+                    i += 1
+                i += 1
+                r = self.decodeString(s[i:])
+                for _ in range(int(num)):
+                    result += r
+            elif s[i] == "]":
+                i += 1
+            else:
+                result += s[i]
+                i += 1
+        return result
