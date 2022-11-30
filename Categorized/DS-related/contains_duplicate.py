@@ -1,5 +1,7 @@
-# problem link:
+# problem link: https://leetcode.com/problems/contains-duplicate/description/
 # --------------------------------Sorting------------------------------------
+# time complexity = O(n) space complexity = O(1)
+
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         nums.sort()
@@ -10,6 +12,7 @@ class Solution:
                 return True
         return False
 # --------------------------------HashMap-------------------------------------
+# time complexity = O(n) space complexity = O(1)
 
 
 class Solution:
@@ -24,6 +27,7 @@ class Solution:
                 return True
         return False
 # --------------------------------Set------------------------------------------
+# time complexity = O(n) space complexity = O(1)
 
 
 class Solution:
@@ -35,6 +39,7 @@ class Solution:
             my_set.add(i)
         return False
 # --------------------------------Checked Length Set----------------------------
+# time complexity = O(n) space complexity = O(1)
 
 
 class Solution:
