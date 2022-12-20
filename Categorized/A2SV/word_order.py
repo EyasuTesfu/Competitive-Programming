@@ -11,4 +11,4 @@ for i in range(n):
 n = len(word_dict.keys())
 print(n)
 for i in word_dict.keys():
-    print(word_dict[i], end = " ")
+    print(word_dict[i], end=" ")
