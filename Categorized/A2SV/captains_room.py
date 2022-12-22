@@ -12,3 +12,13 @@ for i in room_dict.keys():
     if room_dict[i] != k:
         print(i)
         break
+# -------------------prefix sum-----------------
+K = int(input())
+Rooms = list(map(int, input().split()))
+RoomNum = set(Rooms)
+
+IdealRoomTotal = sum(RoomNum)*K
+RealRoomTotal = sum(Rooms)
+
+CaptainRoom = (IdealRoomTotal-RealRoomTotal)//(K-1)
+print(CaptainRoom)
