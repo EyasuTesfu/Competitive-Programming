@@ -31,3 +31,26 @@ class Solution:
                 res = grid_rows[i] + grid_cols[j]
                 output[i].append(res)
         return output
+# ------------------Another approach---------------------
+
+
+class Solution:
+    def onesMinusZeros(self, grid: List[List[int]]) -> List[List[int]]:
+        ones_rows, ones_cols = [], []
+        zeros_rows, zeros_cols = [], []
+        for i in range(len(grid)):
+            count = grid[i].count(1)
+            ones_rows.append(count)
+            zeros_rows.append(len(grid[0]) - count)
+        for i in range(len(grid[0])):
+            count = 0
+            for j in range(len(grid)):
+                if grid[j][i] == 1:
+                    count += 1
+            ones_cols.append(count)
+            zeros_cols.append(len(grid) - count)
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                grid[i][j] = ones_rows[i] + ones_cols[j] - \
+                    zeros_rows[i] - zeros_cols[j]
+        return grid
