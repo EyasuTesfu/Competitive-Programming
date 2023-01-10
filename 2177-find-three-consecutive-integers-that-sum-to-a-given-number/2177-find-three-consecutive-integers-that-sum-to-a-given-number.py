@@ -3,4 +3,5 @@ class Solution:
         if num % 3 != 0:
             return []
         else:
-            return [(num//3)-1, (num//3), (num//3)+1]
+            x = (num//3)
+            return [x-1, x, x + 1]
