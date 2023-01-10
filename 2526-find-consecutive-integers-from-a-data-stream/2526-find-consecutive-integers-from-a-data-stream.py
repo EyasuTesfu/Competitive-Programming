@@ -2,20 +2,18 @@ class DataStream:
 
     def __init__(self, value: int, k: int):
         self.stream = [value, k]
-        self.holder = []
+        self.count = 0
 
     def consec(self, num: int) -> bool:
         if num == self.stream[0]:
-            self.holder.append(num)
-            if len(self.holder) == self.stream[1]:
-                return True
-            elif len(self.holder) > self.stream[1]:
-                self.holder.pop(0)
+            self.count += 1
+            if self.count == self.stream[1]:
+                self.count -= 1
                 return True
             else:
                 return False
         else:
-            self.holder = []
+            self.count = 0
             return False
 
 # Your DataStream object will be instantiated and called as such:
