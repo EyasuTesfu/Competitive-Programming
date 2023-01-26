@@ -1,12 +1,8 @@
 class Solution:
     def replaceElements(self, arr: List[int]) -> List[int]:
-        res = []
         _max = -1
-        for i in range(-1, -len(arr), -1):
-            _max = max(arr[i], _max)
-            res.append(_max)
-        res.reverse()
-        res.append(-1)
-        return res
-                       
-            
+        for i in range(len(arr)-1, -1, -1):
+            temp = arr[i]
+            arr[i] = _max
+            _max = max(temp, _max)
+        return arr
