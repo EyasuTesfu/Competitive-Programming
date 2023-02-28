@@ -3,7 +3,7 @@ class Solution:
         while n >= 1:
             if n == 1:
                 return True
-            elif n < 4:
+            elif n % 4 != 0:
                 return False
             else:
                 n /= 4
