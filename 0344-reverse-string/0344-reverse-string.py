@@ -3,10 +3,9 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        i = 0
-        j = len(s)-1
-        while(i < len(s)//2):
-            s[i], s[j] = s[j], s[i]
-            i += 1
-            j -= 1
-        return s
+        def reverseStringRecursion(s: List[str], i:int)-> list:
+            if i+1 > len(s) //2:
+                return
+            s[i], s[-1-i] = s[-1-i], s[i]
+            return reverseStringRecursion(s, i+1)
+        return reverseStringRecursion(s, 0)
