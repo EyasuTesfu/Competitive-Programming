@@ -17,4 +17,4 @@ class Solution:
             if hours <= h:
                 k = min(k, mid)
                 right = mid - 1
-        return left
+        return k
