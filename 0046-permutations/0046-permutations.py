@@ -8,9 +8,9 @@ class Solution:
             for i in range(len(nums)):
                 if not (vis & (1 << (i+1))):
                     arr.append(nums[i])
-                    vis = vis | (1 << (i+1))
-                    bfs(arr[:], vis)
-                    vis = vis & ~(1 << (i+1))
+                    # vis = 
+                    bfs(arr[:], vis | (1 << (i+1)))
+                    # vis = vis & ~(1 << (i+1))
                     arr.pop()
         bfs([])
         return res
