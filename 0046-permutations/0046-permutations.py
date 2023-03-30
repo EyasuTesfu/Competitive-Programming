@@ -1,16 +1,16 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res = []
-        def bfs(arr, vis = set()):
+        def bfs(arr, vis = 0):
             if len(arr) == len(nums):
                 res.append(arr)
                 return
-            for num in nums:
-                if num not in vis:
-                    arr.append(num)
-                    vis.add(num)
+            for i in range(len(nums)):
+                if not (vis & (1 << (i+1))):
+                    arr.append(nums[i])
+                    vis = vis | (1 << (i+1))
                     bfs(arr[:], vis)
-                    vis.discard(num)
+                    vis = vis & ~(1 << (i+1))
                     arr.pop()
         bfs([])
         return res
