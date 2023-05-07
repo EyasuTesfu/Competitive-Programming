@@ -27,9 +27,12 @@ class Solution:
     #Function to sort an array using Heap Sort.    
     def HeapSort(self, arr, n):
         self.buildHeap(arr, n)
-        for i in range(n - 1, 0, -1):
-            self.swap(arr, 0, i)
+        i = n-1
+        while i > 0:
+            self.swap(arr,0,i)
             self.heapify(arr, i, 0)
+            i -= 1
+            
         
 
 
