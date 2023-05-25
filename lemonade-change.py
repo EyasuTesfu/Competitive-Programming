@@ -9,8 +9,11 @@ class Solution:
             if bill == 5:
                 fives += 1
             elif bill == 10:
-                fives -= 1
-                tens += 1
+                if fives > 0:
+                    fives -= 1
+                    tens += 1
+                else:
+                    return False
             else:
                 twentys += 1
                 if tens:
