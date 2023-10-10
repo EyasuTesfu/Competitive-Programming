@@ -1,11 +1,13 @@
 class Solution:
     def maxSatisfaction(self, satisfaction: List[int]) -> int:
-        sat = sorted(satisfaction)
-        satisfy = 0
-        max_satisfy = 0
-        i = len(sat)-1
-        while i > -1 and satisfy + sat[i] > 0:
-            satisfy += sat[i]
-            max_satisfy += satisfy
-            i -= 1
-        return max_satisfy
+        n = len(satisfaction)
+        sat = sorted(satisfaction, reverse = True)
+        def dp(i, _sum, max_sum):
+            if _sum < 0 or i == n:
+                return max_sum
+            _sum += sat[i]
+            if _sum < 0:
+                return max_sum
+            max_sum += _sum
+            return dp(i+1, _sum, max_sum)
+        return dp(0, 0, 0)
