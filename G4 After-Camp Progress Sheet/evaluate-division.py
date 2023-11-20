@@ -39,10 +39,4 @@ class Solution:
             else:
                 res.append(to_all_path[a][b])
 
-        return res              
-
-
-
-
-
-                    
+        return res
