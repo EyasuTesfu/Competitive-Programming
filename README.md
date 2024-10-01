@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -14,4 +15,12 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
+## Hash Table
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
