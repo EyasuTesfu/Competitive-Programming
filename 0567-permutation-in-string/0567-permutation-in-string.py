@@ -1,12 +1,15 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        left = 0
-        s1_array = sorted(list(s1))
-        s2_array = []
-        for right in range(len(s2)):
-            s2_array.append(s2[right])
-            if right - left + 1 == len(s1):
-                if s1_array == sorted(s2_array[left:right+1]):
+        l = 0
+        sorted_s1 = sorted(s1)
+        queue = deque()
+        for i in range(len(s2)):
+            queue.append(s2[i])
+            if len(queue) == len(s1):
+                if sorted_s1 == sorted(queue):
                     return True
-                left += 1
+                queue.popleft()
         return False
+
+
+            
