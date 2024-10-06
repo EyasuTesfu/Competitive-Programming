@@ -32,9 +32,10 @@ class Solution:
                         break
                     l1 += 1
                     l2 += 1
+                min_length = min(len(s1[l1:]), len(s2[l2:]))
                 if l1 > r1 or l2 > r2:
                     return True
-                return s1[l1:] == s2[len(s2)-len(s1[l1:]):] or s2[l2:] == s1[len(s1) - len(s2[l2:]):]
+                return s1[l1:] == s2[len(s2)-min_length:] or s2[l2:] == s1[len(s1) - min_length:]
         return False
 
             
