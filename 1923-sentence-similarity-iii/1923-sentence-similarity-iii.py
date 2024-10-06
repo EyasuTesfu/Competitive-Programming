@@ -34,8 +34,6 @@ class Solution:
                     l2 += 1
                 if l1 > r1 or l2 > r2:
                     return True
-                print(s1[l1:min_length])
-                print(s2[len(s2)-len(s1[l1:min_length]):])
                 return s1[l1:] == s2[len(s2)-len(s1[l1:]):] or s2[l2:] == s1[len(s1) - len(s2[l2:]):]
         return False
 
