@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -51,8 +52,13 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0567-permutation-in-string) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
