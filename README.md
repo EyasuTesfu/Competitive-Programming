@@ -57,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0567-permutation-in-string](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1923-sentence-similarity-iii](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1923-sentence-similarity-iii) |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
