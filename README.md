@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0567-permutation-in-string) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1694-make-sum-divisible-by-p) |
@@ -93,5 +95,6 @@
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
