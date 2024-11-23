@@ -1,17 +1,23 @@
 class Solution:
     def rotateTheBox(self, box: List[List[str]]) -> List[List[str]]:
-        ROWS, COLS = len(box), len(box[0])
-
-        res = [["."] * ROWS for _ in range(COLS)]
-
-        for r in range(ROWS):
-            i = COLS - 1
-            for c in reversed(range(COLS)):
-                if box[r][c] == "#":
-                    res[i][ROWS - r - 1] = "#"
-                    i -= 1
-                elif box[r][c] == "*":
-                    res[c][ROWS - r - 1] = "*"
-                    i = c - 1
-
-        return res
+        m = len(box)
+        n = len(box[0])
+        rotated_box = [['.' for _ in range(m)] for _ in range(n)]
+        for i in range(m):
+            last_spot = deque()
+            for j in range(n-1, -1, -1):
+                if box[i][j] == '*':
+                    last_spot = deque()
+                    rotated_box[j][m-1-i] = '*'
+                if box[i][j] == '#':
+                    if len(last_spot) != 0:
+                        rotated_box[last_spot[0]][m-1-i] = '#'
+                        last_spot.append(j)
+                        rotated_box[j][m-1-i] = '.'
+                        last_spot.popleft()
+                    else:
+                        rotated_box[j][m-1-i] = '#'
+                if box[i][j] == '.':
+                    last_spot.append(j)
+        
+        return rotated_box
