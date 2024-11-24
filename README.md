@@ -14,6 +14,7 @@
 | [1923-sentence-similarity-iii](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2089-maximum-matrix-sum](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2089-maximum-matrix-sum](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
@@ -99,5 +101,6 @@
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
