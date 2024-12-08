@@ -11,6 +11,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1694-make-sum-divisible-by-p) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/3189-find-champion-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 <!---LeetCode Topics End-->
