@@ -18,6 +18,7 @@
 | [2089-maximum-matrix-sum](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Trie
 |  |
 | ------- |
