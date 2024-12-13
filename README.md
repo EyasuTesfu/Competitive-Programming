@@ -19,6 +19,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Counting
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
@@ -96,6 +100,7 @@
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Trie
 |  |
 | ------- |
