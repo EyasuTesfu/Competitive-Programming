@@ -20,6 +20,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2868-continuous-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0567-permutation-in-string) |
+| [2868-continuous-subarrays](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2868-continuous-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2868-continuous-subarrays) |
 ## Trie
 |  |
 | ------- |
@@ -120,4 +123,16 @@
 |  |
 | ------- |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
