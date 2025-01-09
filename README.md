@@ -21,6 +21,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2868-continuous-subarrays) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [1923-sentence-similarity-iii](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Matrix
 |  |
 | ------- |
@@ -135,4 +138,16 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2868-continuous-subarrays) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
