@@ -19,6 +19,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2448-count-number-of-bad-pairs](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -46,6 +47,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2448-count-number-of-bad-pairs](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Counting
@@ -54,6 +56,7 @@
 | [1396-count-servers-that-communicate](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2448-count-number-of-bad-pairs](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2448-count-number-of-bad-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -170,4 +173,8 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
+## Math
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
