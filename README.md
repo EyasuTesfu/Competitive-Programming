@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
+| [1039-find-the-town-judge](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0567-permutation-in-string) |
+| [1039-find-the-town-judge](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
@@ -132,6 +134,7 @@
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [3189-find-champion-ii](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/3189-find-champion-ii) |
 ## Binary Search
 |  |
