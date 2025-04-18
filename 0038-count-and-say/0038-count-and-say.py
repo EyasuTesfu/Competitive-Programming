@@ -2,22 +2,25 @@ class Solution:
     def countAndSay(self, n: int) -> str:
         if n == 1:
             return "1"
-        rle_str = self.countAndSay(n-1)
+        rle_str = self.countAndSay(n-1) + "0"
+
+        # RLE calculating part
         holder = ""
         final_str = []
-        holder = rle_str[-1]
+        holder = rle_str[0]
         count = 1
-        for i in range(len(rle_str)-2, -1, -1):
+        for i in range(1, len(rle_str)):
             if holder == rle_str[i]:
                 count += 1
             else:
-                final_str.append(holder)
+                # write on final_str
                 final_str.append(str(count))
+                final_str.append(holder)
+
+                #reset holder and count
                 holder = rle_str[i]
                 count = 1
-        final_str.append(holder)
-        final_str.append(str(count))
-        final_str = final_str[::-1]
+        
         return "".join(final_str)
         
 
