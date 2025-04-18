@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0038-count-and-say) |
 | [0567-permutation-in-string](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
