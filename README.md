@@ -10,6 +10,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1694-make-sum-divisible-by-p) |
@@ -180,5 +181,6 @@
 ## Math
 |  |
 | ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2448-count-number-of-bad-pairs](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
