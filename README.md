@@ -84,6 +84,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0115-distinct-subsequences) |
 | [0567-permutation-in-string](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
@@ -185,4 +186,8 @@
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2448-count-number-of-bad-pairs](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2448-count-number-of-bad-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
