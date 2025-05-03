@@ -7,6 +7,7 @@
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
 | [1039-find-the-town-judge](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1039-find-the-town-judge) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
