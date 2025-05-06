@@ -19,6 +19,7 @@
 | [1923-sentence-similarity-iii](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/1972-rotating-the-box) |
+| [2048-build-array-from-permutation](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -100,6 +101,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/EyasuTesfu/Competitive-Programming/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
